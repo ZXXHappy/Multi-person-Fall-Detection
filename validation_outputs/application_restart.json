@@ -1,0 +1,9 @@
+{
+  "cli_restarts": 2,
+  "dashboard_restarts": 2,
+  "close_event": true,
+  "repeated_exit_hook": true,
+  "detectors": 5,
+  "errors": [],
+  "caveat": "Qt offscreen; CLI display/key handling suppressed; real video/inference"
+}

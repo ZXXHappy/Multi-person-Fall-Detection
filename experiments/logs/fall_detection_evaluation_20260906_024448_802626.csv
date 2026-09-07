@@ -1,0 +1,137 @@
+video_name,category,mode,fall_detected,false_alarm,detection_frame,detection_time,visibility_filter,visibility_threshold
+video (1).avi,fall,baseline,True,False,56,2.2,False,0.3
+video (1).avi,fall,visibility_gate,True,False,56,2.2,True,0.3
+video (10).avi,fall,baseline,False,False,,,False,0.3
+video (10).avi,fall,visibility_gate,False,False,,,True,0.3
+video (11).avi,fall,baseline,False,False,,,False,0.3
+video (11).avi,fall,visibility_gate,False,False,,,True,0.3
+video (12).avi,fall,baseline,False,False,,,False,0.3
+video (12).avi,fall,visibility_gate,False,False,,,True,0.3
+video (13).avi,fall,baseline,False,False,,,False,0.3
+video (13).avi,fall,visibility_gate,False,False,,,True,0.3
+video (14).avi,fall,baseline,False,False,,,False,0.3
+video (14).avi,fall,visibility_gate,False,False,,,True,0.3
+video (15).avi,fall,baseline,False,False,,,False,0.3
+video (15).avi,fall,visibility_gate,False,False,,,True,0.3
+video (16).avi,fall,baseline,True,False,594,23.72,False,0.3
+video (16).avi,fall,visibility_gate,True,False,594,23.72,True,0.3
+video (17).avi,fall,baseline,False,False,,,False,0.3
+video (17).avi,fall,visibility_gate,False,False,,,True,0.3
+video (18).avi,fall,baseline,False,False,,,False,0.3
+video (18).avi,fall,visibility_gate,False,False,,,True,0.3
+video (19).avi,fall,baseline,True,False,60,2.36,False,0.3
+video (19).avi,fall,visibility_gate,True,False,60,2.36,True,0.3
+video (2).avi,fall,baseline,True,False,231,9.2,False,0.3
+video (2).avi,fall,visibility_gate,True,False,231,9.2,True,0.3
+video (20).avi,fall,baseline,False,False,,,False,0.3
+video (20).avi,fall,visibility_gate,False,False,,,True,0.3
+video (21).avi,fall,baseline,True,False,60,2.36,False,0.3
+video (21).avi,fall,visibility_gate,True,False,60,2.36,True,0.3
+video (22).avi,fall,baseline,False,False,,,False,0.3
+video (22).avi,fall,visibility_gate,False,False,,,True,0.3
+video (23).avi,fall,baseline,True,False,710,28.36,False,0.3
+video (23).avi,fall,visibility_gate,True,False,150,5.96,True,0.3
+video (24).avi,fall,baseline,False,False,,,False,0.3
+video (24).avi,fall,visibility_gate,False,False,,,True,0.3
+video (25).avi,fall,baseline,False,False,,,False,0.3
+video (25).avi,fall,visibility_gate,False,False,,,True,0.3
+video (26).avi,fall,baseline,False,False,,,False,0.3
+video (26).avi,fall,visibility_gate,False,False,,,True,0.3
+video (27).avi,fall,baseline,False,False,,,False,0.3
+video (27).avi,fall,visibility_gate,False,False,,,True,0.3
+video (28).avi,fall,baseline,False,False,,,False,0.3
+video (28).avi,fall,visibility_gate,False,False,,,True,0.3
+video (29).avi,fall,baseline,False,False,,,False,0.3
+video (29).avi,fall,visibility_gate,False,False,,,True,0.3
+video (3).avi,fall,baseline,True,False,266,10.6,False,0.3
+video (3).avi,fall,visibility_gate,True,False,266,10.6,True,0.3
+video (30).avi,fall,baseline,False,False,,,False,0.3
+video (30).avi,fall,visibility_gate,True,False,164,6.52,True,0.3
+video (4).avi,fall,baseline,True,False,10,0.36,False,0.3
+video (4).avi,fall,visibility_gate,True,False,10,0.36,True,0.3
+video (5).avi,fall,baseline,True,False,159,6.32,False,0.3
+video (5).avi,fall,visibility_gate,True,False,167,6.64,True,0.3
+video (6).avi,fall,baseline,False,False,,,False,0.3
+video (6).avi,fall,visibility_gate,False,False,,,True,0.3
+video (7).avi,fall,baseline,False,False,,,False,0.3
+video (7).avi,fall,visibility_gate,False,False,,,True,0.3
+video (8).avi,fall,baseline,False,False,,,False,0.3
+video (8).avi,fall,visibility_gate,False,False,,,True,0.3
+video (9).avi,fall,baseline,False,False,,,False,0.3
+video (9).avi,fall,visibility_gate,False,False,,,True,0.3
+20060723sfjffinallseriousness_run_f_cm_np2_ba_med_2.avi,normal,baseline,False,False,,,False,0.3
+20060723sfjffinallseriousness_run_f_cm_np2_ba_med_2.avi,normal,visibility_gate,False,False,,,True,0.3
+20060723sfjffjewcy_walk_f_cm_np1_ba_med_2.avi,normal,baseline,False,False,,,False,0.3
+20060723sfjffjewcy_walk_f_cm_np1_ba_med_2.avi,normal,visibility_gate,False,False,,,True,0.3
+20060723sfjffjewcy_walk_f_nm_np1_fr_med_1.avi,normal,baseline,False,False,,,False,0.3
+20060723sfjffjewcy_walk_f_nm_np1_fr_med_1.avi,normal,visibility_gate,False,False,,,True,0.3
+20060723sfjffjewgotmail_walk_f_cm_np2_ba_med_2.avi,normal,baseline,False,False,,,False,0.3
+20060723sfjffjewgotmail_walk_f_cm_np2_ba_med_2.avi,normal,visibility_gate,False,False,,,True,0.3
+20060723sfjffkillerskiss_walk_f_cm_np1_fr_med_1.avi,normal,baseline,False,False,,,False,0.3
+20060723sfjffkillerskiss_walk_f_cm_np1_fr_med_1.avi,normal,visibility_gate,False,False,,,True,0.3
+20060723sfjffschmoozer_walk_f_cm_np1_ri_med_1.avi,normal,baseline,False,False,,,False,0.3
+20060723sfjffschmoozer_walk_f_cm_np1_ri_med_1.avi,normal,visibility_gate,False,False,,,True,0.3
+20060723sfjffschmoozer_walk_f_cm_np2_ri_med_0.avi,normal,baseline,False,False,,,False,0.3
+20060723sfjffschmoozer_walk_f_cm_np2_ri_med_0.avi,normal,visibility_gate,False,False,,,True,0.3
+50_FIRST_DATES_run_f_nm_np1_ba_med_20.avi,normal,baseline,True,True,3,0.06666666666666667,False,0.3
+50_FIRST_DATES_run_f_nm_np1_ba_med_20.avi,normal,visibility_gate,True,True,3,0.06666666666666667,True,0.3
+50_FIRST_DATES_walk_f_cm_np1_ri_med_31.avi,normal,baseline,False,False,,,False,0.3
+50_FIRST_DATES_walk_f_cm_np1_ri_med_31.avi,normal,visibility_gate,False,False,,,True,0.3
+50_FIRST_DATES_wave_f_cm_np1_fr_med_0.avi,normal,baseline,False,False,,,False,0.3
+50_FIRST_DATES_wave_f_cm_np1_fr_med_0.avi,normal,visibility_gate,False,False,,,True,0.3
+A_Beautiful_Mind_6_walk_u_cm_np1_fr_med_1.avi,normal,baseline,False,False,,,False,0.3
+A_Beautiful_Mind_6_walk_u_cm_np1_fr_med_1.avi,normal,visibility_gate,False,False,,,True,0.3
+AboutABoy_walk_f_nm_np1_le_med_5.avi,normal,baseline,False,False,,,False,0.3
+AboutABoy_walk_f_nm_np1_le_med_5.avi,normal,visibility_gate,False,False,,,True,0.3
+American_History_X_run_u_cm_np1_ba_med_18.avi,normal,baseline,False,False,,,False,0.3
+American_History_X_run_u_cm_np1_ba_med_18.avi,normal,visibility_gate,False,False,,,True,0.3
+American_History_X_sit_f_cm_np1_le_med_27.avi,normal,baseline,True,True,4,0.1,False,0.3
+American_History_X_sit_f_cm_np1_le_med_27.avi,normal,visibility_gate,True,True,4,0.1,True,0.3
+American_History_X_sit_u_cm_np1_fr_med_6.avi,normal,baseline,False,False,,,False,0.3
+American_History_X_sit_u_cm_np1_fr_med_6.avi,normal,visibility_gate,True,True,82,2.7,True,0.3
+BLACK_HAWK_DOWN_run_f_nm_np1_ba_med_31.avi,normal,baseline,False,False,,,False,0.3
+BLACK_HAWK_DOWN_run_f_nm_np1_ba_med_31.avi,normal,visibility_gate,False,False,,,True,0.3
+BLACK_HAWK_DOWN_run_f_nm_np1_ba_med_32.avi,normal,baseline,False,False,,,False,0.3
+BLACK_HAWK_DOWN_run_f_nm_np1_ba_med_32.avi,normal,visibility_gate,False,False,,,True,0.3
+BLACK_HAWK_DOWN_run_f_nm_np1_ri_med_17.avi,normal,baseline,False,False,,,False,0.3
+BLACK_HAWK_DOWN_run_f_nm_np1_ri_med_17.avi,normal,visibility_gate,False,False,,,True,0.3
+Bush_Wave_vs__Obama_Wave_and_Which_Commander-in-chief_Salutes_the_Best__You_Decide_wave_u_cm_np1_fr_med_0.avi,normal,baseline,False,False,,,False,0.3
+Bush_Wave_vs__Obama_Wave_and_Which_Commander-in-chief_Salutes_the_Best__You_Decide_wave_u_cm_np1_fr_med_0.avi,normal,visibility_gate,False,False,,,True,0.3
+Bush_Wave_vs__Obama_Wave_and_Which_Commander-in-chief_Salutes_the_Best__You_Decide_wave_u_cm_np1_fr_med_1.avi,normal,baseline,False,False,,,False,0.3
+Bush_Wave_vs__Obama_Wave_and_Which_Commander-in-chief_Salutes_the_Best__You_Decide_wave_u_cm_np1_fr_med_1.avi,normal,visibility_gate,True,True,83,2.7333333333333334,True,0.3
+Bush_Wave_vs__Obama_Wave_and_Which_Commander-in-chief_Salutes_the_Best__You_Decide_wave_u_cm_np1_fr_med_3.avi,normal,baseline,True,True,28,0.9,False,0.3
+Bush_Wave_vs__Obama_Wave_and_Which_Commander-in-chief_Salutes_the_Best__You_Decide_wave_u_cm_np1_fr_med_3.avi,normal,visibility_gate,True,True,28,0.9,True,0.3
+Bush_Wave_vs__Obama_Wave_and_Which_Commander-in-chief_Salutes_the_Best__You_Decide_wave_u_cm_np1_fr_med_4.avi,normal,baseline,False,False,,,False,0.3
+Bush_Wave_vs__Obama_Wave_and_Which_Commander-in-chief_Salutes_the_Best__You_Decide_wave_u_cm_np1_fr_med_4.avi,normal,visibility_gate,False,False,,,True,0.3
+Bush_Wave_vs__Obama_Wave_and_Which_Commander-in-chief_Salutes_the_Best__You_Decide_wave_u_cm_np1_fr_med_5.avi,normal,baseline,False,False,,,False,0.3
+Bush_Wave_vs__Obama_Wave_and_Which_Commander-in-chief_Salutes_the_Best__You_Decide_wave_u_cm_np1_fr_med_5.avi,normal,visibility_gate,False,False,,,True,0.3
+CharlieAndTheChocolateFactory_sit_f_nm_np1_fr_med_3.avi,normal,baseline,True,True,7,0.2,False,0.3
+CharlieAndTheChocolateFactory_sit_f_nm_np1_fr_med_3.avi,normal,visibility_gate,True,True,8,0.23333333333333334,True,0.3
+EVOLUTION_wave_u_nm_np1_fr_med_18.avi,normal,baseline,False,False,,,False,0.3
+EVOLUTION_wave_u_nm_np1_fr_med_18.avi,normal,visibility_gate,False,False,,,True,0.3
+Faith_Rewarded_run_f_cm_np1_le_med_16.avi,normal,baseline,True,True,24,0.7666666666666667,False,0.3
+Faith_Rewarded_run_f_cm_np1_le_med_16.avi,normal,visibility_gate,True,True,24,0.7666666666666667,True,0.3
+KUNG_FU_HUSTLE_sit_f_nm_np1_fr_med_43.avi,normal,baseline,False,False,,,False,0.3
+KUNG_FU_HUSTLE_sit_f_nm_np1_fr_med_43.avi,normal,visibility_gate,False,False,,,True,0.3
+likebeckam_sit_f_cm_np1_ba_med_35.avi,normal,baseline,False,False,,,False,0.3
+likebeckam_sit_f_cm_np1_ba_med_35.avi,normal,visibility_gate,False,False,,,True,0.3
+likebeckam_sit_f_cm_np1_fr_med_26.avi,normal,baseline,False,False,,,False,0.3
+likebeckam_sit_f_cm_np1_fr_med_26.avi,normal,visibility_gate,False,False,,,True,0.3
+likebeckam_sit_f_cm_np1_le_med_28.avi,normal,baseline,True,True,7,0.2,False,0.3
+likebeckam_sit_f_cm_np1_le_med_28.avi,normal,visibility_gate,True,True,7,0.2,True,0.3
+likebeckam_sit_f_nm_np1_le_bad_29.avi,normal,baseline,False,False,,,False,0.3
+likebeckam_sit_f_nm_np1_le_bad_29.avi,normal,visibility_gate,False,False,,,True,0.3
+LONGESTYARD_sit_f_nm_np1_ba_med_29.avi,normal,baseline,True,True,33,1.0666666666666667,False,0.3
+LONGESTYARD_sit_f_nm_np1_ba_med_29.avi,normal,visibility_gate,True,True,33,1.0666666666666667,True,0.3
+LONGESTYARD_sit_u_nm_np1_ba_med_8.avi,normal,baseline,False,False,,,False,0.3
+LONGESTYARD_sit_u_nm_np1_ba_med_8.avi,normal,visibility_gate,False,False,,,True,0.3
+Man_Who_Cheated_Himself_512kb_sit_u_cm_np1_fr_med_3.avi,normal,baseline,False,False,,,False,0.3
+Man_Who_Cheated_Himself_512kb_sit_u_cm_np1_fr_med_3.avi,normal,visibility_gate,False,False,,,True,0.3
+MUSE_Wave_Goodbye_in_Wembley_wave_u_cm_np3_fr_med_1.avi,normal,baseline,True,True,1,0.0,False,0.3
+MUSE_Wave_Goodbye_in_Wembley_wave_u_cm_np3_fr_med_1.avi,normal,visibility_gate,True,True,1,0.0,True,0.3
+NOVA_ELEGANTUNIVERSE3_sit_f_nm_np1_fr_med_2.avi,normal,baseline,False,False,,,False,0.3
+NOVA_ELEGANTUNIVERSE3_sit_f_nm_np1_fr_med_2.avi,normal,visibility_gate,False,False,,,True,0.3
+TheBoondockSaints_sit_f_cm_np1_ri_med_42.avi,normal,baseline,False,False,,,False,0.3
+TheBoondockSaints_sit_f_cm_np1_ri_med_42.avi,normal,visibility_gate,False,False,,,True,0.3
+TrumanShow_sit_f_nm_np1_le_med_37.avi,normal,baseline,False,False,,,False,0.3
+TrumanShow_sit_f_nm_np1_le_med_37.avi,normal,visibility_gate,False,False,,,True,0.3

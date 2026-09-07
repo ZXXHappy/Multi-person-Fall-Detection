@@ -1,0 +1,2124 @@
+{
+  "scenario": "controlled masking of a real video frame; real inference and wall clock",
+  "leaving_id": 2,
+  "staying_id": 1,
+  "returning_id": 3,
+  "absence_seconds": 6.547000000020489,
+  "absence_frames": 46,
+  "rows": [
+    {
+      "phase": "both",
+      "frame": 0,
+      "seconds": 3.3829363000113517,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 1,
+      "seconds": 0.15899359999457374,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 2,
+      "seconds": 0.18471259999205358,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 3,
+      "seconds": 0.1830191999906674,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 4,
+      "seconds": 0.1830004000221379,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 5,
+      "seconds": 0.1787973000027705,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 6,
+      "seconds": 0.19135999999707565,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 7,
+      "seconds": 0.19137240000418387,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 8,
+      "seconds": 0.22520719998283312,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 9,
+      "seconds": 0.17139119998319075,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 10,
+      "seconds": 0.1734471000090707,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 11,
+      "seconds": 0.1801563999906648,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 12,
+      "seconds": 0.16166650000377558,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 13,
+      "seconds": 0.16895000002114102,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 14,
+      "seconds": 0.1846328999963589,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 15,
+      "seconds": 0.1784029999980703,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 16,
+      "seconds": 0.1743819999974221,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 17,
+      "seconds": 0.16385809998610057,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 18,
+      "seconds": 0.16703430001507513,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "both",
+      "frame": 19,
+      "seconds": 0.16430959998979233,
+      "ids": [
+        1,
+        2
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 2,
+          "graph": 2,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 20,
+      "seconds": 0.139992100012023,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 21,
+      "seconds": 0.14025409999885596,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 22,
+      "seconds": 0.159932700014906,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 23,
+      "seconds": 0.18387360000633635,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 24,
+      "seconds": 0.17577430000528693,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 25,
+      "seconds": 0.1574006000009831,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 26,
+      "seconds": 0.1479055999952834,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 27,
+      "seconds": 0.1484395999868866,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 28,
+      "seconds": 0.14568829999188893,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 29,
+      "seconds": 0.1681306999817025,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 30,
+      "seconds": 0.18520649999845773,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 31,
+      "seconds": 0.17325680001522414,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 32,
+      "seconds": 0.1457356000028085,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 33,
+      "seconds": 0.15658719997736625,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 34,
+      "seconds": 0.19082310001249425,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 35,
+      "seconds": 0.1559140000026673,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 36,
+      "seconds": 0.16351579999900423,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 37,
+      "seconds": 0.1536074000177905,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 38,
+      "seconds": 0.15501970000332221,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 39,
+      "seconds": 0.15158179998979904,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 40,
+      "seconds": 0.14352579999831505,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 41,
+      "seconds": 0.16409310000017285,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 42,
+      "seconds": 0.2486849999986589,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 43,
+      "seconds": 0.1127031999931205,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 44,
+      "seconds": 0.13080850002006628,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 45,
+      "seconds": 0.13914329998078756,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 46,
+      "seconds": 0.1250329000176862,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 47,
+      "seconds": 0.11094249997404404,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 48,
+      "seconds": 0.11738480001804419,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 49,
+      "seconds": 0.11699430001317523,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 50,
+      "seconds": 0.11302240000804886,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 51,
+      "seconds": 0.11835750000318512,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "2": 2
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 52,
+      "seconds": 0.1370671999757178,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 53,
+      "seconds": 0.11365569999907166,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 54,
+      "seconds": 0.11789510000380687,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 55,
+      "seconds": 0.11944520001998171,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 56,
+      "seconds": 0.10949350000009872,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 57,
+      "seconds": 0.11588209998444654,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 58,
+      "seconds": 0.13118029999895953,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 59,
+      "seconds": 0.1254136999777984,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 60,
+      "seconds": 0.127806700009387,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 61,
+      "seconds": 0.11857590000727214,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 62,
+      "seconds": 0.12227880000136793,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 63,
+      "seconds": 0.12824729998828843,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 64,
+      "seconds": 0.13073029997758567,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "left_person_hidden",
+      "frame": 65,
+      "seconds": 0.10723689998849295,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 66,
+      "seconds": 0.11512860000948422,
+      "ids": [
+        1
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 67,
+      "seconds": 0.3766258000105154,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 68,
+      "seconds": 0.16041480001877062,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 69,
+      "seconds": 0.14665930002229288,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 70,
+      "seconds": 0.14464269997552037,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 71,
+      "seconds": 0.13968439999734983,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 72,
+      "seconds": 0.14595390000613406,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 73,
+      "seconds": 0.14018570000189357,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 74,
+      "seconds": 0.14582819998031482,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 75,
+      "seconds": 0.1446384000009857,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 76,
+      "seconds": 0.14406200000667013,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 77,
+      "seconds": 0.13678850000724196,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 78,
+      "seconds": 0.13967559998854995,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 79,
+      "seconds": 0.1373124999809079,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 80,
+      "seconds": 0.15100080001866445,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 81,
+      "seconds": 0.14075819999561645,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 82,
+      "seconds": 0.14719360001618043,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 83,
+      "seconds": 0.13299549999646842,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 84,
+      "seconds": 0.1839414999994915,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 85,
+      "seconds": 0.15017370000714436,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 86,
+      "seconds": 0.1458919000288006,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 87,
+      "seconds": 0.1599655000027269,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 88,
+      "seconds": 0.1527566000004299,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 89,
+      "seconds": 0.1616556000080891,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    },
+    {
+      "phase": "both_restored",
+      "frame": 90,
+      "seconds": 0.1749636000022292,
+      "ids": [
+        1,
+        3
+      ],
+      "observations": [
+        {
+          "person_id": 1,
+          "graph": 1,
+          "pose": true,
+          "features": true
+        },
+        {
+          "person_id": 3,
+          "graph": 3,
+          "pose": true,
+          "features": true
+        }
+      ],
+      "graphs": {
+        "1": 1,
+        "3": 3
+      }
+    }
+  ],
+  "all_graphs_closed_once": true
+}

@@ -1,0 +1,31 @@
+{
+  "syntax_files": [
+    "checkcuda.py",
+    "fall_detection_system.py",
+    "dashboard\\dashboard_app.py",
+    "experiments\\analyze_false_positive.py",
+    "experiments\\analyze_visibility_distribution.py",
+    "experiments\\analyze_visibility_jump.py",
+    "experiments\\evaluate_pose_smoothing.py",
+    "experiments\\evaluate_tracking.py",
+    "experiments\\tracking_logger.py",
+    "experiments\\tracking_test.py",
+    "models\\fall_detector.py",
+    "models\\transformer_fall_classifier.py",
+    "tests\\test_pose_lifecycle.py",
+    "tests\\test_transformer_integration.py",
+    "tests\\validate_pose_runtime.py",
+    "tests\\validate_transformer_runtime.py",
+    "utils\\one_euro_filter.py",
+    "utils\\utils.py"
+  ],
+  "syntax_count": 18,
+  "active_source_config_documentation_hits": [],
+  "model_sha256": "c66659c3ac6d37c60469bee4d6f88cb2ac4976928bde6d46b19e7f851e8980b0",
+  "one_euro_sha256": "54cb08f51856a1cbd5fcd85538c022b755baacb6621be72f0e3f44f42c1169ab",
+  "excluded_evidence": [
+    "validation_outputs",
+    "experiments/logs"
+  ],
+  "deleted_files_absent": true
+}

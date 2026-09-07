@@ -1,0 +1,26 @@
+# Core Dependencies
+torch>=1.7.0
+torchvision>=0.8.1
+numpy>=1.19.0
+opencv-python>=4.5.0
+mediapipe>=0.8.9
+ultralytics>=8.0.0
+
+# Dashboard UI
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2  
+PyQt5-sip==12.13.0
+matplotlib>=3.3.0
+
+# Utilities
+Pillow>=8.0.0
+pyyaml>=5.3.1
+tqdm>=4.41.0
+scipy>=1.4.1
+requests>=2.23.0
+
+# Optional Dependencies
+# Recommended for better performance
+nvidia-cudnn-cu11>=8.6.0 ; platform_system == "Linux" or platform_system == "Windows"
+nvidia-cuda-runtime-cu11>=11.7.0 ; platform_system == "Linux" or platform_system == "Windows"
+nvidia-cuda-cupti-cu11>=11.7.0 ; platform_system == "Linux" or platform_system == "Windows"
